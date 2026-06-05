@@ -1,0 +1,22 @@
+# Przedmowa {.unnumbered}
+
+To strona z materiałami do cyklu wykładów **„Trendy w badaniach socjologicznych"**. Cykl wprowadza w **obliczeniowe nauki społeczne** (*computational social science*), **socjologię obliczeniową** oraz metody **sztucznej inteligencji** w warsztacie badacza społecznego.
+
+::: {.callout-note title="Czym jest ta strona"}
+Tu znajdziesz **spis wszystkich wykładów wraz z linkami** do prezentacji. Same slajdy prowadzę z zewnętrznego narzędzia (iA Presenter) — z każdego wykładu prowadzi bezpośredni odnośnik do interaktywnej prezentacji online.
+:::
+
+## Jak korzystać z tej strony
+
+- W zakładce **[Program wykładów](wyklady.qmd)** masz listę wszystkich dziesięciu spotkań.
+- Każdy wykład ma **tytuł, krótki opis i link** „Otwórz prezentację".
+- Po prawej stronie (w trakcie czytania) pojawia się **spis treści** ułatwiający przeskok do konkretnego wykładu.
+- Górne pole wyszukiwania przeszukuje całą stronę.
+
+## O cyklu
+
+Dziesięć wykładów prowadzi od podstawowych pojęć obliczeniowych nauk społecznych, przez analizę sieci, dyfuzję i polaryzację, aż po pracę z tekstem jako danymi i uczenie maszynowe w socjologii. Całość pokazuje, jak **cyfrowe ślady** i metody obliczeniowe zmieniają sposób, w jaki zadajemy pytania o społeczeństwo.
+
+## Linki
+
+- **Repozytorium:** [github.com/jaroslawchodak/trendy-w-badaniach-socjologicznych](https://github.com/jaroslawchodak/trendy-w-badaniach-socjologicznych)

@@ -1,0 +1,46 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Trendy w badaniach socjologicznych"
+  subtitle: "Systemy agentowe AI w procesie badawczym"
+  #author: "Jarosław Chodak"
+  date: today
+  date-format: "YYYY-MM-DD"
+  language: pl
+  search: true
+  reader-mode: true
+  page-footer:
+    left: "Wykład"
+    right: |
+      Repozytorium na [GitHub](https://github.com/jaroslawchodak/trendy-w-badaniach-socjologicznych)
+  sidebar:
+    style: docked
+    collapse-level: 2
+    border: true
+  chapters:
+    - index.qmd
+    - wyklady.qmd
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    toc-title: "Na tej stronie"
+    number-sections: true
+    number-depth: 2
+    smooth-scroll: true
+    code-overflow: wrap
+    code-copy: true
+    fontsize: "1.05em"
+    linkcolor: "#0b3d91"
+    mainfont: "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    monofont: "JetBrains Mono, 'Fira Code', 'SF Mono', Consolas, monospace"
+    mermaid:
+      theme: neutral
+
+lang: pl

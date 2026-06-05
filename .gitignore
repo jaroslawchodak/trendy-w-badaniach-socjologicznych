@@ -1,0 +1,17 @@
+# --- Quarto ---
+/.quarto/
+_site/
+_freeze/
+_book/
+_publish.yml
+
+# --- System ---
+.DS_Store
+Thumbs.db
+.Rhistory
+
+# --- Edytory / IDE ---
+.vscode/
+.idea/
+*.swp
+*~
