@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Trendy w badaniach socjologicznych",
+    "section": "",
+    "text": "Przedmowa\nTo strona z materiałami do cyklu wykładów „Trendy w badaniach socjologicznych”. Cykl wprowadza w obliczeniowe nauki społeczne (computational social science), socjologię obliczeniową oraz metody sztucznej inteligencji w warsztacie badacza społecznego.",
+    "crumbs": [
+      "Przedmowa"
+    ]
+  },
+  {
+    "objectID": "index.html#jak-korzystać-z-tej-strony",
+    "href": "index.html#jak-korzystać-z-tej-strony",
+    "title": "Trendy w badaniach socjologicznych",
+    "section": "Jak korzystać z tej strony",
+    "text": "Jak korzystać z tej strony\n\nW zakładce Program wykładów masz listę wszystkich dziesięciu spotkań.\nKażdy wykład ma tytuł, krótki opis i link „Otwórz prezentację”.\nPo prawej stronie (w trakcie czytania) pojawia się spis treści ułatwiający przeskok do konkretnego wykładu.\nGórne pole wyszukiwania przeszukuje całą stronę.",
+    "crumbs": [
+      "Przedmowa"
+    ]
+  },
+  {
+    "objectID": "index.html#o-cyklu",
+    "href": "index.html#o-cyklu",
+    "title": "Trendy w badaniach socjologicznych",
+    "section": "O cyklu",
+    "text": "O cyklu\nDziesięć wykładów prowadzi od podstawowych pojęć obliczeniowych nauk społecznych, przez analizę sieci, dyfuzję i polaryzację, aż po pracę z tekstem jako danymi i uczenie maszynowe w socjologii. Całość pokazuje, jak cyfrowe ślady i metody obliczeniowe zmieniają sposób, w jaki zadajemy pytania o społeczeństwo.",
+    "crumbs": [
+      "Przedmowa"
+    ]
+  },
+  {
+    "objectID": "index.html#linki",
+    "href": "index.html#linki",
+    "title": "Trendy w badaniach socjologicznych",
+    "section": "Linki",
+    "text": "Linki\n\nRepozytorium: github.com/jaroslawchodak/trendy-w-badaniach-socjologicznych",
+    "crumbs": [
+      "Przedmowa"
+    ]
+  },
+  {
+    "objectID": "wyklady.html",
+    "href": "wyklady.html",
+    "title": "Program wykładów",
+    "section": "",
+    "text": "1. Nowe trendy w badaniach socjologicznych\nDziesięć wykładów cyklu „Trendy w badaniach socjologicznych”. Każdy odnośnik otwiera interaktywną prezentację (iA Presenter) w nowej karcie.\nWprowadzenie do obliczeniowych nauk społecznych, socjologii obliczeniowej i metod sztucznej inteligencji w naukach społecznych.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#rewolucja-obliczeniowa-w-naukach-społecznych",
+    "href": "wyklady.html#rewolucja-obliczeniowa-w-naukach-społecznych",
+    "title": "Program wykładów",
+    "section": "2. Rewolucja obliczeniowa w naukach społecznych",
+    "text": "2. Rewolucja obliczeniowa w naukach społecznych\nOd „cyfrowych śladów” do nowej teorii społecznej.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#eksperymenty-online-i-automatyczne-gromadzenie-danych-z-sieci",
+    "href": "wyklady.html#eksperymenty-online-i-automatyczne-gromadzenie-danych-z-sieci",
+    "title": "Program wykładów",
+    "section": "3. Eksperymenty online i automatyczne gromadzenie danych z sieci",
+    "text": "3. Eksperymenty online i automatyczne gromadzenie danych z sieci\nMetodologia, możliwości i wyzwania.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#niewidzialna-architektura-relacji",
+    "href": "wyklady.html#niewidzialna-architektura-relacji",
+    "title": "Program wykładów",
+    "section": "4. Niewidzialna architektura relacji",
+    "text": "4. Niewidzialna architektura relacji\nAnaliza sieci społecznych w perspektywie obliczeniowych nauk społecznych.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#dyfuzja-zarażanie-i-wpływ-społeczny-w-sieciach",
+    "href": "wyklady.html#dyfuzja-zarażanie-i-wpływ-społeczny-w-sieciach",
+    "title": "Program wykładów",
+    "section": "5. Dyfuzja, zarażanie i wpływ społeczny w sieciach",
+    "text": "5. Dyfuzja, zarażanie i wpływ społeczny w sieciach\nKiedy zachowania (nie) rozprzestrzeniają się jak wirusy.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#polaryzacja-polityczna-i-bańki-informacyjne",
+    "href": "wyklady.html#polaryzacja-polityczna-i-bańki-informacyjne",
+    "title": "Program wykładów",
+    "section": "6. Polaryzacja polityczna i bańki informacyjne",
+    "text": "6. Polaryzacja polityczna i bańki informacyjne\nMierzenie polaryzacji z danych cyfrowych.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#eksperymenty-nad-polaryzacją",
+    "href": "wyklady.html#eksperymenty-nad-polaryzacją",
+    "title": "Program wykładów",
+    "section": "7. Eksperymenty nad polaryzacją",
+    "text": "7. Eksperymenty nad polaryzacją\nKiedy wyjście z bańki pogłębia podziały.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#tekst-jako-dane",
+    "href": "wyklady.html#tekst-jako-dane",
+    "title": "Program wykładów",
+    "section": "8. Tekst jako dane",
+    "text": "8. Tekst jako dane\nPrzetwarzanie języka naturalnego.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#geometria-kultury",
+    "href": "wyklady.html#geometria-kultury",
+    "title": "Program wykładów",
+    "section": "9. Geometria kultury",
+    "text": "9. Geometria kultury\nOsadzenia słów (word embeddings) i wymiary społeczne.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  },
+  {
+    "objectID": "wyklady.html#uczenie-maszynowe-w-socjologii",
+    "href": "wyklady.html#uczenie-maszynowe-w-socjologii",
+    "title": "Program wykładów",
+    "section": "10. Uczenie maszynowe w socjologii",
+    "text": "10. Uczenie maszynowe w socjologii\nPredykcja, wyjaśnianie i granice wiedzy o społeczeństwie.\nOtwórz prezentację ↗",
+    "crumbs": [
+      "Program wykładów"
+    ]
+  }
+]
